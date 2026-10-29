@@ -50,7 +50,7 @@
 
 **APPLIED ML**<br/>
 <img src="https://img.shields.io/badge/scikit--learn-0d0f14?style=flat-square&logo=scikitlearn&logoColor=f97316" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/SHAP-0d0f14?style=flat-square&logoColor=f5f4ef" alt="SHAP" />
+<img src="https://img.shields.io/badge/SHAP-explainability-f97316?style=flat-square&logoColor=f5f4ef" alt="SHAP explainability" />
 <img src="https://img.shields.io/badge/Streamlit-0d0f14?style=flat-square&logo=streamlit&logoColor=f97316" alt="Streamlit" />
 
 </div>
@@ -66,5 +66,5 @@ Civic and agricultural technology. Explainable AI. Hackathon builds that start a
 <a href="https://github.com/nikhi20-900"><img src="https://img.shields.io/badge/GitHub-follow_the_build-0d0f14?style=for-the-badge&logo=github&logoColor=f5f4ef" alt="GitHub profile" /></a>
 
 <div align="center">
-  <sub>FIELD NOTES 001 · MADE OF QUESTIONS, COFFEE & COMMIT MESSAGES</sub>
+  <sub>FIELD NOTES 001 · QUESTIONS IN · PROTOTYPES OUT</sub>
 </div>
