@@ -1,13 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Nikhil Chhetri — AI and full-stack product builder</title>
-  <desc id="desc">An engineering-journal banner in charcoal, linen, terracotta, and sage.</desc>
-  <rect width="1200" height="300" rx="18" fill="#0d0f14"/>
-  <path d="M0 246 L214 0 H300 L86 300 H0Z" fill="#f97316" opacity=".95"/>
-  <path d="M965 0 H1200 V54 H1012 L822 300 H735Z" fill="#84a98c" opacity=".88"/>
-  <path d="M1010 0 H1200 V16 H1024 L805 300 H787Z" fill="#f5f4ef" opacity=".75"/>
-  <line x1="356" y1="54" x2="864" y2="54" stroke="#84a98c" stroke-width="2"/>
-  <text x="610" y="91" fill="#84a98c" font-family="monospace" font-size="14" letter-spacing="4" text-anchor="middle">ENGINEERING JOURNAL · PRODUCT / AI</text>
-  <text x="610" y="170" fill="#f5f4ef" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="2" text-anchor="middle">NIKHIL CHHETRI</text>
-  <text x="610" y="213" fill="#f5f4ef" font-family="monospace" font-size="16" letter-spacing="5" text-anchor="middle">AI + FULL-STACK PRODUCT BUILDER</text>
-  <line x1="506" y1="241" x2="714" y2="241" stroke="#f97316" stroke-width="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="380" viewBox="0 0 1440 380" role="img" aria-labelledby="title desc">
+  <title id="title">Nikhil Chhetri — making useful software</title>
+  <desc id="desc">A bold engineering-journal cover in charcoal, linen, terracotta, and sage, for an AI and full-stack product builder.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#f5f4ef" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1440" height="380" rx="20" fill="#0d0f14"/>
+  <rect width="1440" height="380" rx="20" fill="url(#grid)"/>
+  <circle cx="1320" cy="50" r="210" fill="#84a98c" opacity=".13"/>
+  <circle cx="1320" cy="50" r="142" fill="none" stroke="#84a98c" stroke-width="2" opacity=".65"/>
+  <path d="M0 380L248 0H354L120 380Z" fill="#f97316"/>
+  <path d="M0 380L220 42H258L48 380Z" fill="#f5f4ef" opacity=".92"/>
+  <path d="M1100 380L1360 0H1440V122L1264 380Z" fill="#84a98c" opacity=".82"/>
+  <text x="88" y="68" fill="#84a98c" font-family="monospace" font-size="15" letter-spacing="4">NIKHIL CHHETRI  /  FIELD NOTES 001</text>
+  <text x="1350" y="68" fill="#f5f4ef" font-family="monospace" font-size="13" letter-spacing="3" text-anchor="end">AI × PRODUCT × FULL STACK</text>
+  <text x="130" y="188" fill="#f5f4ef" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="800" letter-spacing="-2">MAKE IT USEFUL.</text>
+  <text x="130" y="263" fill="#f5f4ef" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="800" letter-spacing="-2">MAKE IT REAL.</text>
+  <rect x="132" y="300" width="508" height="42" rx="21" fill="#f5f4ef"/>
+  <text x="386" y="327" fill="#0d0f14" font-family="monospace" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle">AI + FULL-STACK PRODUCT BUILDER</text>
+  <text x="1350" y="331" fill="#0d0f14" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2" text-anchor="end">PROTOTYPE  →  LEARN  →  REFINE</text>
+  <path d="M1000 173h118m-28-28 28 28-28 28" fill="none" stroke="#f97316" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1200" y="206" fill="#f5f4ef" font-family="monospace" font-size="23" font-weight="700" letter-spacing="3">BUILD /</text>
+  <text x="1200" y="238" fill="#84a98c" font-family="monospace" font-size="15" letter-spacing="2">WITH INTENT</text>
 </svg>
